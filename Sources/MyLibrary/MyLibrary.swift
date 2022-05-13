@@ -3,7 +3,7 @@ public struct MyLibrary {
 
     public init() {
     }
-    static func test01(){
-        print("Hello World!")
+    public func test01(){
+        print("Hello World11!")
     }
 }
